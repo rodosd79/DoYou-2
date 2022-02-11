@@ -69,6 +69,21 @@ a:hover {
   box-shadow: 0 0 50px;
 }
 
+.h3DoYou {
+  background-color: #00d863;
+  color: white;
+}
+
+.texto-sobre {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.texto-sobre h5 {
+  border-bottom: #00d863 solid 0.8px;
+  color: #00d863;
+}
+
 footer.footer {
   border-top: #00d863 solid 1.4px;
 }
